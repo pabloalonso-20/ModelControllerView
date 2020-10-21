@@ -1,0 +1,15 @@
+--DROP TABLE IF EXISTS students;
+--
+--CREATE TABLE students (
+--    id INT AUTO_INCREMENT PRIMARY KEY,
+--    first_name VARCHAR(200) NOT NULL,
+--    last_name VARCHAR(200) NOT NULL,
+--    major VARCHAR(200) DEFAULT NULL
+--);
+--
+--INSERT INTO students (first_name, last_name, major)
+--VALUES
+--    ('Pablo', 'Alonso', 'Computer Science'),
+--    ('Naomi', 'Bird', 'Media Arts'),
+--    ('Adelaide', 'Etxebarri', 'International Business');
+--
